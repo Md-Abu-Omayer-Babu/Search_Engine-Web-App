@@ -1,7 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
 .env
 config.py
+
+# Compiled files
 __pycache__/
-*.mp3
-*.txt
-tempCodeRunnerFile.py
+*.pyc
+*.pyo
+
+# IDE/editor settings
 .vscode/
+.idea/
+*.swp
+
+# Logs and caches
+*.log
+*.cache
